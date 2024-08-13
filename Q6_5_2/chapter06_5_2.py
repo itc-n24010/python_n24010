@@ -1,2 +1,2 @@
-import n24010
-print(n24010.my_pow(2, 5))
+import my_math2
+print(my_math2.my_pow(2, 5))
